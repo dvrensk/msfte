@@ -1,0 +1,26 @@
+os_1:
+  id: 1
+  msfte_post_id: 1
+  title: Looking forward to the series!
+  text: the title says it all
+os_2:
+  id: 2
+  msfte_post_id: 1
+  title: Looking forward to the series!
+  text: the title says it all
+os_3:
+  id: 3
+  msfte_post_id: 1
+  title: Sorry for the double post
+  text: I hope this won't ruin the series. Which OS is more secure?
+windows_1:
+  id: 4
+  msfte_post_id: 2
+  title: Great start to the series!
+  text: the title says it all
+windows_2:
+  id: 5
+  msfte_post_id: 2
+  title: Late to the party
+  text: Sorry, I should have checked before
+

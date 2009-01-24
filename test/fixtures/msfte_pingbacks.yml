@@ -1,0 +1,10 @@
+os_1:
+  id: 1
+  msfte_post_id: 1
+  url: http://www.vrensk.com/
+  excerpt: talking about secure oses
+os_2:
+  id: 2
+  msfte_post_id: 1
+  url: http://www.example.com/
+  excerpt: ...interesting series about operating systems linux windows bsd

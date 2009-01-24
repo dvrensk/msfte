@@ -1,0 +1,19 @@
+= Contributing to Msfte
+
+Msfte was developed in a client project where the Rails app was just a
+supporting actor to the Dotnet hero. It solved our problems pretty well, but
+it's far from what I would like it to be. Unfortunately I don't have access to
+MSSQL any more, so I can't develop it further.  If anyone else wants to pick
+up the gauntlet, I'd be happy to hand over the project.
+
+== Running the tests
+
+In order to run the tests, you have to put the plugin in a Rails app.  Set up
+the test tables and run the test by simply
+
+    cd vendor/plugins/msfte
+    rake test:setup
+    rake
+
+The tests use the test database from the containing Rails project and create
+three tables whose names start with <code>msfte_</code>.

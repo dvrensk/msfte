@@ -1,0 +1,20 @@
+# Note: These posts contain sample text, not my opinions.
+os:
+  id: 1
+  title: A look at operating systems
+  text:  In the series I will talk about why BSD and OS X are nicer than Windows and Linux.  Phrase one.
+windows:
+  id: 2
+  title: A look at Windows
+  # 2 nicER.  2 Windows, 1 Linux
+  text:  Windows is not nicer than Linux or OS X, but nicer than DOS. Go Windows!  Phrase one, phrase two.
+linux:
+  id: 3
+  # lookING, not look
+  title: Looking at Linux
+  # 2 nice.  2 Linux, 1 Windows
+  text:  Linux is very nice if you're into hacking (where Windows is lacking), but not as nice as OS X. Go Linux!  Phrase two.
+bsd:
+  id: 4
+  title: A look at BSD
+  text:  BSD is really nice.  Especially OpenBSD which is known for being very secure and not open to hackers. Go BSD!
